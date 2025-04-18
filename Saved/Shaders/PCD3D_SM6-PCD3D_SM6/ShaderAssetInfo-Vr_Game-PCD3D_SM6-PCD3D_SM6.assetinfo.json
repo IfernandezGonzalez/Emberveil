@@ -1,0 +1,2439 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "E20197010FF77C364D7E17889632CAEE7E20C4F5",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DD479C017B57F3A9EE9936D0968792947E29E6E4",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F19FC501F12F2F853FD686CC514293DB5C4FF179",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "4773A30208697651F3B690ACB7BDFE778192F86D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "3E0F4F03C2DD554E9E9920DC64E2344887294C80",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "D96F7E03F24FA0EC71BC4D345D534F9F02BE3D16",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "714B9403A102847279514CF42193AB66F773B134",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/M_DustHit"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFE0E04805AAE1A24E9626E69BEA6EC6D120F95",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Torso_Silk_rosewood2"
+			]
+		},
+		{
+			"ShaderMapHash": "82D09C047BDF9014D03683A004AAD212E9BCAF6C",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Skirt"
+			]
+		},
+		{
+			"ShaderMapHash": "ABB01D057EE6C392E3B2F73C51F313270A12C327",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_LowerClothes_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "84BF59064F292D3D54121EDC6F710E29C53B0045",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
+			]
+		},
+		{
+			"ShaderMapHash": "948B6B064A9BFB1DEDF523A566EBC3BDEBA6A917",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_WaterBubbles"
+			]
+		},
+		{
+			"ShaderMapHash": "7F8DE406B5ADD677E8630CFC4088A7518BB12EF0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "C66D40072464B1468A4020BDA9821CE407577249",
+			"Assets": [
+				"/Game/Weapon_Pack/Effects/Materials/Fire/M_Fire_SubUV_11X11_Noise"
+			]
+		},
+		{
+			"ShaderMapHash": "CB865E0790B34977CC1B05AB823984B43D1FBA06",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Weapon_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "78F47407D9D24E2E6607843C2B0242B68931B4B4",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CB551808AE6D1B89FE157B1D8619DBB43DF2BC33",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Flares/M_SuperSoft_Glow_LDR"
+			]
+		},
+		{
+			"ShaderMapHash": "01743B096921E9C0D38EBEAD5FF0B2E5C678AB97",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "8BF87D09B627725034767ECDD936CEF0A1FBABCD",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Shockwave/M_Shockwave_Fresnel_InverteRefract_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "806A8D0AA0E9AAE358FBAEC9E3011DA0C213886C",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "FC64450BAF9C68C7A00C18821C0EA35192FE92B9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "76224B0BF8E4AC0A7C8259115C9757C6BE88FD23",
+			"Assets": [
+				"/Game/Weapon_Pack/Materials/Props/Interior/M_Banners"
+			]
+		},
+		{
+			"ShaderMapHash": "1C1D720BAB7B339958251945E89A543C57526BAE",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_WaistArmsFlesh_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "A2DAC60B4F9424021C17EFFFF49B4E812063C3C5",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "F929FC0B43826C58EF664924282982F61B3BF45A",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Fur",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Hair",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "457D190C64A16428678E08369ECA3E1CD8B2D220",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1D0F790C8F6044DC9C5C60B02517BFC2C771A9A8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "FCDA890DD9A6771DA1D19BE5877AB773C6586782",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "78192510AC0ECC13771AA3A3CCE44D23A712E3FA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "11662311F3230D66A50F11FE7ED289B2C54F888B",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_Roof"
+			]
+		},
+		{
+			"ShaderMapHash": "8962661156B724F7D324E837830435140EFC197B",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_TwinBlast_Eyelash_Bust"
+			]
+		},
+		{
+			"ShaderMapHash": "AD2139133A94B7321266F3DBBD42E2DB44265711",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Torso_"
+			]
+		},
+		{
+			"ShaderMapHash": "60C9F91391086F0A3A510BCF72B2A56930E2F61F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "55E956142EC9E560DB3554D56A36EB1988D11726",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Arm_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "016D941476641D10913BCD30889935B253D95C27",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Debris/M_Agelsjon_Rock_Inst",
+				"/Game/ParagonKwang/FX/Materials/Debris/M_Glansgruvan_Rock_Inst",
+				"/Game/ParagonKwang/FX/Materials/Debris/M_ScottRock_A",
+				"/Game/ParagonKwang/FX/Materials/Debris/MM_MossRocks"
+			]
+		},
+		{
+			"ShaderMapHash": "E386B014F02609F730E6E79DE4671EB1610E7A38",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_WaistArms_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "007B431647ADDF659263563CB20F7B370FC73090",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "4FD3DB16055C5F8E7B5A6469964036A23FC04A6A",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "66BC5519B007F74D5931711055A49A70730AD178",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F2B3431B62CF1CED0079F929D0208406E4BC0F86",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_WaistArms"
+			]
+		},
+		{
+			"ShaderMapHash": "9CA9F51B3FE5F158809A32A3CACF38E7F9F955C0",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "4976321CCF7A1F62B3A1795F5A30113C7E0FC023",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Fur_Bright",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Hair_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "56B8A11D1B446197ACFB386731ABEAA8D5277017",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F403831ED3A512D220CC9D078E48A5AC5363CE91",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Flares/M_Radial_Gradient_DepthFade"
+			]
+		},
+		{
+			"ShaderMapHash": "00CD891EDB822AFAE8220B08BC4E14D38CA22D3F",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_WaistArms_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "A5BF4D20A3C1957C194F000388B77FD89D1D5CDE",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/MI_Kwang_EyeRefractive_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "7F0FF0203E470644F2EA20CBEE8F5D80B2462D4A",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "FFE2982279B45472F9857DDACA49F8E42C968E97",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "9908E5221653F103EF8F614ED2DB30ED532C8D61",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "C64623242951EA9DC89B4451A55585DF2989AEF1",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Debris/M_Agelsjon_Rock_Inst",
+				"/Game/ParagonKwang/FX/Materials/Debris/M_Glansgruvan_Rock_Inst",
+				"/Game/ParagonKwang/FX/Materials/Debris/M_ScottRock_A",
+				"/Game/ParagonKwang/FX/Materials/Debris/MM_MossRocks"
+			]
+		},
+		{
+			"ShaderMapHash": "E58C2B246740ECF6D4BA685FE3F0FCF04820D922",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "7FAC852471F14B867A5B23FFD9A10A397083FC26",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_WaistArms_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "FF03DF25E8B364D35686A647A7367F1AC2C9503E",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_WaistArms_Silk_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "915B17262723897BFBCD8D5212A6B1AB0128602A",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/Electricity/M_Kwang_Bolt_Energy_Spline"
+			]
+		},
+		{
+			"ShaderMapHash": "C7B7BE26EB807088DBE5A36376E42A1F56FE16BF",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/Electricity/M_Kwang_Lightning_Bolt_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "4688E3265E382CD97EE883631B7541107AAA24D0",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "A4384A2777B9F40B34F2D57DBFDCED107036950D",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_Sidewalk"
+			]
+		},
+		{
+			"ShaderMapHash": "6A6CA32760F9DC227DEE7B7E2A639A618FEE7EA4",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Head_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "5B1C1F28FFA42F3BBF5C745DB986DA602A2B4D8D",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_FlattenRoofWall_Plaster_Moss",
+				"/Game/ModularOldTown/Materials/MI_WallDecor_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "1D50C3288C6F83F01A6536A3932DFDD2F7F5A1F0",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Torso_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "DACFFF287D040982988628E26A3B173B214843B5",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "BEAD3C29E35E4395201B8A5FB46B26077A196B5A",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Arm"
+			]
+		},
+		{
+			"ShaderMapHash": "29C47A29E17EB8B9BB5C7A2BC76EA95701DDF10D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "CD6CDB292F6A53DD62AC3C912D0D1F1DD0A884BC",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "0007A92A36272D9D217E37A519F45B982CCE3A3D",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/M_Proto_Basic_Flipbook_MaintainOriginalColor"
+			]
+		},
+		{
+			"ShaderMapHash": "DFA64C2B10969A15E7E753256A5B310D4C35F2FA",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_Head_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "64637D2BD6A4B3C0B921A0A6AD49BB2B9FCBD719",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Maps/BackGroundAssets/HDRSky"
+			]
+		},
+		{
+			"ShaderMapHash": "D89E122CB4A300704F319AF18B2EE2591D62BCFA",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_LowerBodySilk_SilverGhost2",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_TorsoSilk_SilverGhost",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_WaistCloth_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "2BBFE32C38C4761454DEE78CD7C19096AAA48A38",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_MaskedWater_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "EBFFF22D4EC46C165B0429D0D115B6C6633B01F9",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "5EFB732E05D427029FFC9C275F0536667A2E50AE",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_WaistArms_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "5A1566320ECFCDA99BF1D7641AA1D4EF85AEACDF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "E71E8B32DAE9C748DBD61A4F5C4C5490D8122E1C",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/M_Kwang_Smoke_Cheaper"
+			]
+		},
+		{
+			"ShaderMapHash": "388E1B33F65DB226062D6CA8751C5C0D8CC3DDC0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8D10B133A0F5D716AAF55391D56D9960A3E1045C",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "5D66F3337E6892EF36C8256A516343987F0E8F7B",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_NaniteGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "FD6BBD3559C72E297866B135559AC2C1757F82C0",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "72D69438B52263125BCA6319496361CCB0DCCDFF",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Debris/M_ImposterRock_Masked_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "D7999939BC6BADBEE8D1D8B346D23193B8D178B6",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "EC49F83B6C9E1D7DB7B7DD4857021D0592677859",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_WaistArmsFlesh"
+			]
+		},
+		{
+			"ShaderMapHash": "2A7B8F3CBC0256137CE1F5DB0192ABF5EB47F63A",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Trails/M_Kwang_Sword_Trail"
+			]
+		},
+		{
+			"ShaderMapHash": "06C8943DE140195975922B2065DAE31C95411454",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "040DD03D43A9D70A199FD22D66988E7868E6BDA7",
+			"Assets": [
+				"/Game/Weapon_Pack/Effects/Materials/Fire/M_HeatDistort"
+			]
+		},
+		{
+			"ShaderMapHash": "14CED93D8D06165FA1980AC415931C9839A50E3E",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_WaistArms_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "79D6233E904AB54B6B0DD29554E0BF7BBD59DCDE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "DC2FD73ECC3EAA4E8490D1B84BA1D965633D1583",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "3095DE3E8AD397DCEA026209D590783E9A53DC63",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_WaistArmsFlesh_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "58710E3FB2580A77C49A10DC396823347F61F697",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "2008203FA0B9A944012E60F7BF53C19DA8BB900C",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8F2D443F61FDFE9718301B872755FB6C5BFC7ED9",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_WaistArms"
+			]
+		},
+		{
+			"ShaderMapHash": "25DE993F56A66B42D2E3FDFD77F04F093D1D32E7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "2DBAD43FCB30DCDEE281644CC848DF9322ABA460",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_LowerBodySilk_SilverGhost2",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_TorsoSilk_SilverGhost",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_WaistCloth_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "30F7664081E39D93B7B87F523411EE955D4D88CC",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CCDF6D40C0736D16856FE08255D56C200ACEA88C",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_Weapon_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "0A0FAD4084D6A9819F2F67C53CDA85DEB3E7D982",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Hair/Materials/M_HairSheet_Master2",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Hair_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "0ED96E412E356F93DB924C66ED8705A6753508F5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A9313E43A0E468ED532A19BB2BF32EC467F0F758",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_ArmClothes_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "68C21D4461266B7FE70DE0EF467CFA4EC0EE0368",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "50979D44396CEAD2B024D38020F90CC78EF9670C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "BEF8084631486719FB166EB806C81D8A030032FF",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Debris/M_Agelsjon_Rock_Inst",
+				"/Game/ParagonKwang/FX/Materials/Debris/M_Glansgruvan_Rock_Inst",
+				"/Game/ParagonKwang/FX/Materials/Debris/M_ScottRock_A",
+				"/Game/ParagonKwang/FX/Materials/Debris/MM_MossRocks"
+			]
+		},
+		{
+			"ShaderMapHash": "104E3646B402736F05E45AA8258A0F3CF3D85799",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "AE174946FE68A13E205AFF83C2BE592BE8E31E85",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_FlatStonesNoMoss",
+				"/Game/ModularOldTown/Materials/MI_Floor_1m"
+			]
+		},
+		{
+			"ShaderMapHash": "40988B467B64B0217B010E6F8A0D10F05B1E4FE4",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Torso_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "F9282C4723EA7AC162888A020AB7DF40AD814CC1",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_WaistArmsFlesh_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "1E5D1C495284EDAD53D9B7073B8FC5653725D11E",
+			"Assets": [
+				"/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay"
+			]
+		},
+		{
+			"ShaderMapHash": "B32B384AA29ADC7D5DEA67B8E7E6D79CA0ADCE50",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_WaistArmsFlesh"
+			]
+		},
+		{
+			"ShaderMapHash": "7CC76F4A2B6A310D5A725E76182E05D651A31AC9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9544BC4AAD5A5F86FAC7DD323D4F7B07343401E0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "77F1874CF9FA982933D092E73BA0C40E7CE2D2B1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "78E6A54CC22DD29AA39A108F03F2DCD95993E917",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_WaterMist"
+			]
+		},
+		{
+			"ShaderMapHash": "8F45E74C786FBA3C698A0638EFC20F89257CDD40",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_WaterImpact_Cylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "FC3B084E04F6D078B387CF4B165F2B614A32D88B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "294FE34FCA37FC4C263AE125717FD50517C841E5",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Maps/BackGroundAssets/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "19244C50CC2C09147380954E64271A7BAE1A9A89",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Torso_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "9C8DD050CEA97A4481FE0DD1FA7FA3CA1087D019",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Torso_Silk_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "AEF8EA5024C9C413A402AA275C2B5BCC9F900CFD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "AF15EE50B01D7D52B1266AFA7C5043F3D553AAB2",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D53D1251F85DA9911517B209166133B7F7755A62",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Skirt"
+			]
+		},
+		{
+			"ShaderMapHash": "0A775D51DE550D7CC09DC7A2DB4D378E47D5E95F",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_LowerBody_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "3E839D511DC5D32B8DCA14336E3EB618E796781B",
+			"Assets": [
+				"/Game/Weapon_Pack/Materials/Weapons/M_WeaponSet_1",
+				"/Game/Weapon_Pack/Materials/Weapons/M_WeaponSet_2",
+				"/Game/Weapon_Pack/Materials/Weapons/M_WeaponSet_1Dirty",
+				"/Game/Weapon_Pack/Materials/Weapons/M_WeaponSet_2Dirty"
+			]
+		},
+		{
+			"ShaderMapHash": "2FFDBF51C90C4BDE689F8DECEFD5FD53C060D586",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "55B4B853DC6A0778C932666CD910977FB31A87AA",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_LowerBody_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "2D69E6538BB3F8336A49C52F5A5C91019A9FEDC8",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Tors_rosewoodo_"
+			]
+		},
+		{
+			"ShaderMapHash": "8E4CB654ED1D86D3B452A023D72AD74976E74B23",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_TorsoSilk"
+			]
+		},
+		{
+			"ShaderMapHash": "36FB91554DDF5843F5E38D64DE94AA3EDC8E8541",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_MaskedWater_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "AC40D955B6DF56472F677755E868E8AC34402D8E",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Pants_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0B365676BC15D6274D2F0D3BDD3445ADE77739",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Weapon_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "CD53A7563A42D53069C23936C96311C64FD0BE7B",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_Water_Drops_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "39AB455891AAB24D9CC08B1410867D11DDC9C884",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_Glass",
+				"/Game/ModularOldTown/Materials/MI_WinGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "93E6755866AAF37E846E6E5D65E6B2836A7E450A",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "258A8C581B3200EC5D3635EDF764B49D1E3482A0",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_ForeArm_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "F38A6A59A607873CCA4C63E75FCD9114BD8C7696",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "2F327E5983CCA6E2435DC031DDA1701801595AB1",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "913DDE59DD48E8B2FD182E4DF324174D1A7B1378",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "36FE065AACAB5DCD4E6D647661B25E9C3D00301B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A2E32B5B7C96AFCD3561271687EC101DB2ED19E9",
+			"Assets": [
+				"/Game/Weapon_Pack/Blueprints/Lightshaft/Lightshaft/M_GodRay_Inst_Animated"
+			]
+		},
+		{
+			"ShaderMapHash": "B8A7415B501622A03544FA16BF1F9F89914E37B9",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Torso_Chest"
+			]
+		},
+		{
+			"ShaderMapHash": "D1D8525B59FAC5E0F7D98573BDD969F93A5C3B44",
+			"Assets": [
+				"/Game/Weapon_Pack/Effects/Materials/Flares/M_FlareRound"
+			]
+		},
+		{
+			"ShaderMapHash": "3ED1935B938F144327BA9D2203804FBE6EEAE2DC",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/M_Proto_Basic_1Texture"
+			]
+		},
+		{
+			"ShaderMapHash": "BC7BE95B4C8151B482A376FA39A8821A4993E568",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "711D596198E1A4D220BF607A80AA961B3C9133AB",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_Hardsurfaces",
+				"/Game/ModularOldTown/Materials/MI_BazaarProps_01",
+				"/Game/ModularOldTown/Materials/MI_BazaarProps_02",
+				"/Game/ModularOldTown/Materials/MI_BazaarProps_03",
+				"/Game/ModularOldTown/Materials/MI_BazaarProps_04",
+				"/Game/ModularOldTown/Materials/MI_BazaarTables"
+			]
+		},
+		{
+			"ShaderMapHash": "13C71A627F2343080F67A57F20E579C7B11D8F34",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Fire/M_Embers"
+			]
+		},
+		{
+			"ShaderMapHash": "796CAB6263620A3F6408494BF8A56C0ADFCCC8D9",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Torso_Silk"
+			]
+		},
+		{
+			"ShaderMapHash": "A952D5625E1313E5A6A278EB7A12D0E729AB76D6",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "2C5F3063FBE4BBC58EDC8176DC2B65A510B88EEE",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_Footfall_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "09F50064BCC27A2FD9F1F383B88434671CAD47D7",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Shockwave/M_Kwang_Shockwave"
+			]
+		},
+		{
+			"ShaderMapHash": "D7D8ED6431A15AB8197BA1B2271CC2CB1AEBAC9B",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/M_TacticiaMuzzleSmoke"
+			]
+		},
+		{
+			"ShaderMapHash": "5F84086634492F1840C0245B9BFB0B3A0C1B093E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7F3D1D66DCA77C7C5DF7D4F8F074341AB8EE1DE0",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Tors_rosewoodo_"
+			]
+		},
+		{
+			"ShaderMapHash": "F95F2066458F8A3A964A58D84B62582949DFA355",
+			"Assets": [
+				"/Game/Models/NewFolder/dummy1",
+				"/Game/Models/NewFolder/Wood_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "755E51666C51C4FE87A0D98420C0465DB18A37BE",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3FE5B5670197CB58864D194954F85D6DA964A488",
+			"Assets": [
+				"/Game/Weapon_Pack/Materials/Set/M_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "609843681F6C7773B8F8033638D63D7DAADDEE8F",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_LowerBody_Silk_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "3BFFDA6BAEFA41D8EFCBEA54077759D709C62378",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Hair/Materials/M_HairSheet_Master2",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Hair_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "776B756C29AEF1656BCDF07F14A1E8472C12B4CA",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Lens/M_Camera_Ripple"
+			]
+		},
+		{
+			"ShaderMapHash": "94D8036D0B9FE2DB55E02274481C101841E84959",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Torso_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "367EFE6D3B207AE7A266B47E7D1BF8EC0E8A3215",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "7D684A6ED110B444246118F51A5D7B5903E42286",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "58307C6EC2E173A7A07BBDB76912351C842F5EAE",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_LowerBody_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "C9DACA6EEAFC3F8BC1CA7733CADF8103559470FE",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_CameraStretch"
+			]
+		},
+		{
+			"ShaderMapHash": "32CF716F28ECB113E0A7F3FD8A8D622D7B7B5019",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "E170746F64FF5AD97124AF476A199986317716EA",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_WateDroplets_Simple"
+			]
+		},
+		{
+			"ShaderMapHash": "570DC86F5D32B76F744C8E257B1EDC5B79648DC1",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "519AE86FD26F032EE59E4A59183095CDE8982AE5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "E16ACA7005958E5220DD88AC303B5CE3165F549D",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Flares/M_Shield_Lightbeams4"
+			]
+		},
+		{
+			"ShaderMapHash": "B678D970924B42135AFE12DABA3312DF453FBBEF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "9DB9077111AB73BDC405B9053A40220FF0BCFDDD",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_LowerBody_Silk",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_WaistArms_Silk"
+			]
+		},
+		{
+			"ShaderMapHash": "78942771EB4192670E21DA4FE48D950E38CE2BE9",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Torso_Silk_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "D41F2F716F96F6800C64F8B651C099501727189D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "D9A3A871D9A264196B72639E4F641257F17AF059",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "361F0972D26114DFE714527CBD28E2F0E47E5AC2",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_LowerBody_Silk",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_WaistArms_Silk"
+			]
+		},
+		{
+			"ShaderMapHash": "8D315B7473E5EA016E9DB64AD4E79F156A03D76B",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Fur",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Hair",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "54108E762EDBE89642E4405605A6688AE7155059",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_Background",
+				"/Game/ModularOldTown/Materials/MI_Cliff_01",
+				"/Game/ModularOldTown/Materials/MI_Cliff_02",
+				"/Game/ModularOldTown/Materials/MI_Cliff_03",
+				"/Game/ModularOldTown/Materials/MI_Cliff_04",
+				"/Game/ModularOldTown/Materials/MI_Rocks"
+			]
+		},
+		{
+			"ShaderMapHash": "EAFD0C77AD06FCD9EC89A57F253C191DB2EA2D05",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/Hydro/M_Hydro_Water_Particles",
+				"/Game/ParagonKwang/FX/Materials/Water/Hydro/M_Hydro_Water_Particles_Body_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "CE694877A7A59F85CD6401335285E8243D5EE038",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "DFDDB677AC30911EF294BD7C7A66192D5E132249",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_WaistArms_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "4B6AC6774188AF9D048FD3C6E4FFAD0B84D8B236",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B956EC79674B284AC9138DB0F0CCF9C47B8B4A24",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_LowerBody_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "2FBBD87A0D43C85F62C8F9E5C61BA09CD63012F4",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "CCF2867B4CD384576B86A46966F92BF45C199B83",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_Torso_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "7E02C27BD120FB48D6713DCEA8D8FAF65B768B52",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "365A397CEA539EFDCB96CE4CC414C9792C62B392",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Lowe_rosewoodrBody"
+			]
+		},
+		{
+			"ShaderMapHash": "8743037D9642201496D062B8674DA5F676B627EB",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/Electricity/M_Coil_ElectricDischarge"
+			]
+		},
+		{
+			"ShaderMapHash": "E1C3BC7D41E44B9C37DE749A2595147C8396337A",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_LampPost",
+				"/Game/ModularOldTown/Materials/MI_LionHead"
+			]
+		},
+		{
+			"ShaderMapHash": "CC8FBB7EFB86A17271A2293B1DD4B0339657EB78",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Hands_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "4C6B337FA2D988F49A789BB4198E24F9C8A77E07",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Head",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Head"
+			]
+		},
+		{
+			"ShaderMapHash": "52C1427F83B0388DE838D4BF5AC9496BD666C066",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_WaistArms_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "10E10F80A4C02A84F871509563D9E1ABD69CE7CE",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "21D36A81F0F7272F2555390097381AEE7ACBE71E",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "E0C98B823EB766780297111F68155CD3BA0906C3",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "3DF52A830F7C15C1ED19A5AC4998B3603922F91A",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_TwinBlast_Eyelash_Bust"
+			]
+		},
+		{
+			"ShaderMapHash": "830461835ADB45D529818A380EF639A8E57520FE",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Hands"
+			]
+		},
+		{
+			"ShaderMapHash": "2CCA5C8488301A2502A274C2E51BF7470A3FCBC8",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6182ED84E106ECAE444C5583037BAAFEBC9CC239",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "F35423868FA2E0B5BC309DCB9CE20AF87029BED6",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "84884286A4361FB854586085E2DF2A35EE10BEAF",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_ForeArm_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "AA025586B5ECFEC10FB4999DA84F35EABF7D123D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F1A16B862593779ED7AD0B1D5E412704690F2713",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "DCE7A2862B894FB335D65C232C85F6E8B60F1FE5",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Pants"
+			]
+		},
+		{
+			"ShaderMapHash": "276C29877DE770B091E69E833AD827AD7A2698BC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
+			]
+		},
+		{
+			"ShaderMapHash": "38875887486DBB9B1CD07B82DE0FE72B3F81A594",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "563585875C6ECA70B8E3F024D9531B67ACD0F5AE",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Models/1fabric",
+				"/Game/Models/3metal",
+				"/Game/Models/4wood",
+				"/Game/Models/5concrete",
+				"/Game/Models/NewFolder/Black_Matte",
+				"/Game/Models/straw"
+			]
+		},
+		{
+			"ShaderMapHash": "42AAD1876CE4B74D4046723B53328CD3ED34A4C5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "8B0DE68822FDCAEF4D714629343769E94471735C",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_FlatStones",
+				"/Game/ModularOldTown/Materials/MI_FlatStoneWall_NOMoss"
+			]
+		},
+		{
+			"ShaderMapHash": "554ADD8ABB3378FCC5DB8C10E72691CF62873D49",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "11F1508B2430DB4ADA90511BD28EC71D9F6ABF46",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_WaistArms_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "889BDF8D5F384B262D6051275D70DC7A3AE2D053",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Weapon_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "8546178E9E432AB536CF718BA25914BF614DBBFC",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Torso_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "A1C7358F122AABC13189ED9B282277F695E4025B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "5FC8AD8FC56A42B12CD94DB3401BD5654D00AA8C",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "19836C914EC2E279DECF03577BE5CF104AC926F5",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "3042FF91656F44116D1CE6638EF18392DD7A7FDD",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "5FDD44929A0AD401F4845765B9E50B71291E6C8C",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "C5A87F92372947B6496CB6C0A303AB8357A0A7CA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "24C4DB9227674891409CC30AD1F1DD2BD3EE019F",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_LowerBody_Silk_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "380F4393B3C0C171848B575E4847B02ACABC0CDE",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_Decals"
+			]
+		},
+		{
+			"ShaderMapHash": "35EF7A9393DCFCABA161A88B0D678A1EFDE101F1",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_ArchedDoorFrame",
+				"/Game/ModularOldTown/Materials/MI_ArchedWinFrame",
+				"/Game/ModularOldTown/Materials/MI_Awning",
+				"/Game/ModularOldTown/Materials/MI_Bench",
+				"/Game/ModularOldTown/Materials/MI_Concrate",
+				"/Game/ModularOldTown/Materials/MI_Door_B",
+				"/Game/ModularOldTown/Materials/MI_DriedGrouds",
+				"/Game/ModularOldTown/Materials/MI_Exterior",
+				"/Game/ModularOldTown/Materials/MI_Exterior_B",
+				"/Game/ModularOldTown/Materials/MI_Exterior_C",
+				"/Game/ModularOldTown/Materials/MI_Exterior_D",
+				"/Game/ModularOldTown/Materials/MI_FlattenRoofWall_Plaster",
+				"/Game/ModularOldTown/Materials/MI_FlattenWall_Brick",
+				"/Game/ModularOldTown/Materials/MI_FlattenWall_Plaster",
+				"/Game/ModularOldTown/Materials/MI_Floor_1m_DecalDark",
+				"/Game/ModularOldTown/Materials/MI_GrateDoor",
+				"/Game/ModularOldTown/Materials/MI_GreatBalcony_A",
+				"/Game/ModularOldTown/Materials/MI_GreatBalcony_A02",
+				"/Game/ModularOldTown/Materials/MI_GreatBalcony_B",
+				"/Game/ModularOldTown/Materials/MI_OpenableWindow",
+				"/Game/ModularOldTown/Materials/MI_Ornaments",
+				"/Game/ModularOldTown/Materials/MI_RoofWallFrame",
+				"/Game/ModularOldTown/Materials/MI_Shutter",
+				"/Game/ModularOldTown/Materials/MI_Shutter_Blue",
+				"/Game/ModularOldTown/Materials/MI_ShutterRockFrame",
+				"/Game/ModularOldTown/Materials/MI_SquareWinFrame_Brick",
+				"/Game/ModularOldTown/Materials/MI_SquareWinFrame_Marble",
+				"/Game/ModularOldTown/Materials/MI_TerraPots_A",
+				"/Game/ModularOldTown/Materials/MI_TerraPots_B",
+				"/Game/ModularOldTown/Materials/MI_WallDecor",
+				"/Game/ModularOldTown/Materials/MI_WallDecor_B"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F95394C4920F2ACDC5BD5C400683B3D5D61FC2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "E2B0F0949788210AF37DD1575BA33BDD3BF72013",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "67C11F953D9630A78ECC8F149271DD151BEFF895",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "FB7BB295BECB8740698B34F87055D6B45314CF64",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_WaistArmsFlesh_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "E5A67D9650E6041404DCD2621D912A0F1437A00D",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_TorsoClothes_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "E855D29693578B942C95423E914BADB1D625FD76",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "0683D49654597A794123AAA078F50EBB9545E1DC",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F5622697C900B29A5AEBF0A5CEA2CA00C9EDDF2B",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "492E429710B6CA934ED2D19746186D4FE0A34CAA",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_WaterImpact_Strand_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "F5BB6B97C85AC62C26618CC4E4C45F2FB5A90619",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_Vegetation"
+			]
+		},
+		{
+			"ShaderMapHash": "E9C7C097D74BE3857FAEA294AFC803401F99945F",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Torso_Silk"
+			]
+		},
+		{
+			"ShaderMapHash": "416D5198DF2B93DFE1644BC32273E1CF21A9DD50",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8703469B7631330C3745F1788345D8F66E8F9900",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "34C6959B7F5AA8A86DE99A360AE550AFD56FA415",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "6B51C79BD6447D8B1041137C3C5FEEFF2D7DBA80",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "6CAE529C51E9EEA8E260DF56BB8CCEDDDEAC47F2",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Environment/Water/M_WaterRipple_Mesh_Foam"
+			]
+		},
+		{
+			"ShaderMapHash": "D5EE989C34AD2E1C6A5F0D3BDD1E63BFAD32DB55",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AF80A89CB5BFED0236898C01D673B9F89FD73EC0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "005EC29F4F088F71AEE8157CE243391126455118",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "C31B0DA06D75EBA41C9AAD58872E667F08B1114C",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "6D82FAA0CEF636B3457A869F950CD652D4ECC8B5",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Fur_Bright",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Hair_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "A9C21CA1D3071380F2B58AAB2A85409C87508173",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "6113A2A1E82418CA44C505DD2946C70451292A57",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_LowerBody_Silk",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_WaistArms_Silk"
+			]
+		},
+		{
+			"ShaderMapHash": "5E83C2A144BEE2C97E66C2B0BDC83CF3E1DD2220",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Torso_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "9A48DAA127CD06165154930E0BC540D21A4247BE",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "544A15A363086EE94955452E2C74FE01FC881844",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "786E5CA3155C19A1C1238A5BE09D75E4E2A64185",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_ArmClothes_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "C19DDBA33C680366C31B82920641A0A7806DF1B4",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "451733A4EBA134DEB05912F8565C01308208B61B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "3C1461A4EB7C9F005708576646EB52C3387EBD2F",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Arm"
+			]
+		},
+		{
+			"ShaderMapHash": "F26E26A5EE149311FD414B8E60565BD389D41483",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "5D524EA51113143534F9026E9C5D3CF8DD050A66",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_LowerClothes_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "45CF53A52DC7AEC30687878B3CBEE62720A6CD96",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "85CE89A6A201A5615F572F1B6F4D553EBC776C2C",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_FlattenRoofWall_Brick",
+				"/Game/ModularOldTown/Materials/MI_FlattenWall_GreatBalconyWall_Brick",
+				"/Game/ModularOldTown/Materials/MI_FlattenWall_GreatBalconyWall_Plaster",
+				"/Game/ModularOldTown/Materials/MI_Floor_1m_DecalLight",
+				"/Game/ModularOldTown/Materials/MI_GreatBalconyIndoor_Wall_Brick",
+				"/Game/ModularOldTown/Materials/MI_StairWalls"
+			]
+		},
+		{
+			"ShaderMapHash": "1E3CCEA623E8C852F4C74D71A310F8A2C7B711AC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D790B5A8D85346C6EF30C62AF4658AFEFE645EDF",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_LowerBodySilk_SilverGhost2",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_TorsoSilk_SilverGhost",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_WaistCloth_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "6DC30EA9BDBCCCD939658CB4368C08D842992AF8",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_DOF_Rand_ScaleDistanceMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "84340CAA9D6D07DC43D850A01165E8B8F8DA2EDE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "337324AA3612CFBAE455887884D0BAB4D9840290",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Pants"
+			]
+		},
+		{
+			"ShaderMapHash": "985986AB5C3261A32F751F81972F1B9248DF6E7B",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "4C42EEABA2F04DF093AAC68BF513C6425C137D5E",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_Cliff_05"
+			]
+		},
+		{
+			"ShaderMapHash": "735951AC33DAD206406F0083CCC680AC340E728B",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "98286AADA449092D9B56A1EF59DBDE1E8D53A6E4",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "57FF01AE9D7FAEBA52D9F6668FBBBDDD2DAAAFC8",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_WaterImpact_Strand"
+			]
+		},
+		{
+			"ShaderMapHash": "DF33A7AE79D45B41B16B264B114A2D6949E58C9F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "858E33AF1AC2785F4667C86F17FF034266599901",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "660ED7AF5230870160491EA6A6885A92A7B481A5",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Shockwave/M_Kwang_Energy_Funnels"
+			]
+		},
+		{
+			"ShaderMapHash": "B885F4AF5868DC418FAE068B3823D9427E2F5488",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "EE633AB0481A0E60E37519CF99602F71C9427A3B",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "4F9647B09F94B28D848DC4168D62ADF07D91479E",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_Water_Footfall"
+			]
+		},
+		{
+			"ShaderMapHash": "ABADE7B01199CC0D6FD4EDD94BF2E983126BC5AC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "22E623B1FFB385262B2D325ECDACA918E68C27AF",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/Electricity/M_SparksPhoto"
+			]
+		},
+		{
+			"ShaderMapHash": "C26C2FB1228CDDD060895ADE689B6527EF049233",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Water/M_Footfall_Ripple"
+			]
+		},
+		{
+			"ShaderMapHash": "EFA69AB1B4EC1CAF1559445F330ACA94485B8410",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Trails/M_Sword_ClearAPath_Swipe"
+			]
+		},
+		{
+			"ShaderMapHash": "6ADB05B5B0B61C325F6F668A7CDF36347EFE80B9",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BA427BB59E7CA2D5FBE2FE92921151E9A8724C4E",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "2251D6B5A6BC37FCE596FCEED32CFE95167BE328",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_TorsoChest_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "217250B6B13934D6144197D69CFC370E236E5FFE",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3DD058B768A936F57F06019931B5B4639779610A",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F445B1B79E598700707BA8B16E9FADED918F4BE8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E3A301B9143EAECB3DA7165D0A450BFCBF239820",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B068CB9AE07E7A17B7485A351A58F553E2E9D4A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9B42C0B982E2C3C1506FC3A1C3C9964BE6C3AF6C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "34AAE8B9849FE0B6AA7FFE3B4C70A890912C810C",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "ADF1FBBAC4F5C2C4128660CE9377124624A71496",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "53807BBB94DA6835FED3101111F9BFC2EC194FC1",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_Weapon_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "23F56EBC6A086BE6B5FF209B889FA3868BD0827C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "357B8CBC8CCF30498908D5C2A98D858F0C631177",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_FlatStoneWall"
+			]
+		},
+		{
+			"ShaderMapHash": "90ACBDBCA4EFE172AE752E9896AB704373328E1B",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Debug/M_SolidParticleColor"
+			]
+		},
+		{
+			"ShaderMapHash": "6E8A68BD06FC3F9AD981DECC19160D300AA87830",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "29077BBDB401A00250FB1FC1D120ABB217798F8E",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_TorsoChest_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "FA4766BEAE9B080D69F701878F8FD816DC3893A6",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_WaistArms"
+			]
+		},
+		{
+			"ShaderMapHash": "03EA8DBF7A801EA6BCF7C8BA4900AEBD8854D89D",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "46FF90BF734CD659F22E5BDF6AD58955FBA5DB2C",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/Plasma/M_RecallPlasmaBeam"
+			]
+		},
+		{
+			"ShaderMapHash": "05F013C0E6AD5F499EF581CC96B973727E68B4FB",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_FlatStones"
+			]
+		},
+		{
+			"ShaderMapHash": "C3BC0EC2DBEEED531F6A7911B6DF1D75F6E21196",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D8FDE2C27F2E241679A7D8112F28744C377525F8",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_Sidewalk_B"
+			]
+		},
+		{
+			"ShaderMapHash": "108365C309BFE953280443E73BCD0680530F46F0",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "8C443EC48CA768A5A34B14685C6F6187BF247245",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/Plasma/M_Turbulent_SmokeSubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "E4EA64C475D6846559FF606B2E97D13BC2E8307A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "05FEC0C5EB663617D270AF72F1A1AE6E5DFCFFA6",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Shockwave/M_Kwang_Absorb_Mesh"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E1D6C5CE4FB261CA6D3652317F75C15DA82E94",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "86ADEBC5A687A800611AFFAB8AEA0CC049C77A77",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "71A80AC650784B77B87AEBCCAAC656ECAAF31446",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "35F015C6A602544B30DB22B3604384685698946C",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_TorsoSilk"
+			]
+		},
+		{
+			"ShaderMapHash": "CCBA24C6A6B444EA6630690404F0AA0BE1F3B29B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FFCC69C6964BED022DF4B7CF4B2BB69D6B3A9A27",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "12B98DC74D3A74F0C5127D03AE49A093095EC4B9",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Weapon_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "C0EEDCC7C400D834356055F96E3D7FFAEB73E6B1",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "7D9809C8F343B77DA0088A5DC377725023097D97",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "3445EDC87B8E476BFC99F532BB1A14F9A033CD89",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/MI_Kwang_EyeRefractive_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "32451FCB74CDF994967BF8082D8FF634C2F248CC",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "F00132CB97DE4D058C0CDD8C743F3D455FEB5134",
+			"Assets": [
+				"/Game/Weapon_Pack/Materials/M_Stained_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "A20A9ACCA076776D75614E09676384A69A1AD125",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MasterMaterials/M_TriplanarUVs",
+				"/Game/ModularOldTown/Materials/MI_Ceiling_1m",
+				"/Game/ModularOldTown/Materials/MI_Ceiling_1m_Corner",
+				"/Game/ModularOldTown/Materials/MI_Ceiling_1m_Corner_R",
+				"/Game/ModularOldTown/Materials/MI_Ceiling_2m",
+				"/Game/ModularOldTown/Materials/MI_Ceiling_3m",
+				"/Game/ModularOldTown/Materials/MI_Floor_2m",
+				"/Game/ModularOldTown/Materials/MI_Floor_3m"
+			]
+		},
+		{
+			"ShaderMapHash": "AA2E68CDB9165D028654F850C78B783B3CE18EA9",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Head",
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Head"
+			]
+		},
+		{
+			"ShaderMapHash": "ED29E1CE4FE2D394CF78D6002BA02869BF7CC92C",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/M_Magical_Threads_GPU"
+			]
+		},
+		{
+			"ShaderMapHash": "3B4AA5D0B6690C5FB108B67CA0D7EEE7D1354621",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "30722DD1BE21A0C727B1A382BD7A7F72D6A0ADEF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "22CE5ED35CFCAB7C318601EEF8501729A950206C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "3D579ED3633A006B740B2D3D2512DC931D246299",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Shockwave/M_KwangTeleportAfterimage"
+			]
+		},
+		{
+			"ShaderMapHash": "1687B8D4A2B8638AB920C665142A5EDF421A597E",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Head_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "E874C1D4F77C9537EC710FD4DA53B92BD741C044",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "31EA42D57F95B6FC59B5A01B373127CC8BF8307C",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Torso_Silk"
+			]
+		},
+		{
+			"ShaderMapHash": "3B8FAED5CC6559AACF56917E369AA345598C86FA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D848C6D539144A223F305249856FA0C16CE71C0D",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_LowerBody_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "911DE7D5470BBA125A356D528233631BB7998128",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Weapon_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "E93DF6D53DDD3FE98B4E06A288D79F42D95B62D7",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_Floor_1m_DecalUseMoss"
+			]
+		},
+		{
+			"ShaderMapHash": "6E5D28D6F620F608A2DF4D89D8DEFA20233ABB6D",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "E2F756D6B4027B5EBFD89888506932300558E7F8",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_Head_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "D2C696D6615040C8A2C752F5D5904A174E27C38D",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "393669D7E458CAB0F77E14743AF447DC520DC56C",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_Torso_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "8F99A4D721601D3C82F52D2D7F9B5325F6C35CE2",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "0029CFD84473083F0387DE37339AB20B84657A94",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_WaistArmsFlesh_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "7799EFD8B8AC8B616DB8DFFBA532D54BA465CEB1",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Torso_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "44EE15D974F09D20D6845B2C6E9B10FBB189A41B",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Hands"
+			]
+		},
+		{
+			"ShaderMapHash": "92EB5DD9A2B8C537284E8CF1BCF1BE409435EFDE",
+			"Assets": [
+				"/Game/Weapon_Pack/Effects/Materials/Sparks/M_Spark_VelocityLerp"
+			]
+		},
+		{
+			"ShaderMapHash": "A459BBD9572F384C73D2694BD6274CA15A8F09B6",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "BD09B1DA5F662C724166B7F59C7DC4BC8E42BD5F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "4719EBDADDCEF7EDAC70ABE155EF20CDFE329D58",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F7443EDD09C670D0AE703979644C2521C47ED490",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_WaistArms_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "DCFB86DD9B1C439F35484E51CD3EA606542A9FD9",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "AFD2B6DDD859A173D7210E0E83A034031FDAF0DA",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/M_Kwang_Swirling_Clouds_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "9DA7EADDD5A53CDCE727466676361D745E5E6D50",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F3ED41DEA3C3823D7CCF50D071B1FA323E638FA3",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "33D582DEDF3F2523D1C6061842521D8EFAE13693",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_Torso_"
+			]
+		},
+		{
+			"ShaderMapHash": "1D8EF2DE0F8E06A4C377C13B20F263983ABE3567",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/lightning/M_Lightning_HighDetail"
+			]
+		},
+		{
+			"ShaderMapHash": "EA230CDF0F566125379FDD79B24ED876D58FB19C",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3E3930DFA75B78476F5E0A645F00C0A47EBEFAB8",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Hands_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "82EB64E154831ABE8331845A14443DECE45050B0",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Weapon_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "C8F0EBE168A73E589D727206843550C1D741B458",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B45D59E3C757CD6F6B91F765453DB6980AD14A37",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "493FD9E35ECB14753A67BE1448C695C9E74FF11B",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Flares/M_Buff_Red_ImpactRays"
+			]
+		},
+		{
+			"ShaderMapHash": "A39F0FE4944D3DD4B0A560C4D006D443CA46AB64",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "2B3364E5E9278AEDD086F8CF3170ABB29BAB1EE5",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Smoke/M_lightSmoke"
+			]
+		},
+		{
+			"ShaderMapHash": "BFCDC9E540D7B6DA985743A6C383E0AA84A57551",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Flares/M_CleanseFlare"
+			]
+		},
+		{
+			"ShaderMapHash": "448DE1E6E6FD475438FD70420AC1EAC5E56CD820",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "1E49F9E6EDF82B82D36CC45C87FA0BDD617FC305",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_WaistArms_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "C4D42BE8EEF4C1BF956EB5C830AF5C7E5D4D7713",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "628965E8D4DB4B48416FCC95A532D9535299D4C0",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Materials/M_Kwang_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "2DEE66EAEBD4633B6D5581F4BDC1E5ABB003C542",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manban/Materials/M_Kwang_ManBun_Torso_Chest"
+			]
+		},
+		{
+			"ShaderMapHash": "0AEB49EBD49B542B4C3CF7FDD1A4C41CCA4CCEDD",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "D4D760EB79E4F78D245720A11AA7E93D7DC549A4",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_WaistArms_Silk_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "D74193EEB7FAD0C569E38E228EF419203BD5B233",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Arm_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "9DE9B4EEAC315D7A0685C2BE0F0B194A840DB485",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "B18EEDEEB080567F7EDD2BADF2019C14B624C113",
+			"Assets": [
+				"/Game/ModularOldTown/Materials/MI_BazaarProps_01_TwoSided",
+				"/Game/ModularOldTown/Materials/MI_BazaarTableCloth"
+			]
+		},
+		{
+			"ShaderMapHash": "487930EF8974A1D2A7927FC8717A7D6031958C83",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_Torso_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "15C660EF756AF3BB12C51E8F2EECBFCE9EA66B8A",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_Pants_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "D4EBA4F04B72E7967588300439B57F7E2F72C4A7",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "77D311F1E2DDEFF2F107A04D28B12957D77321F8",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_WaistArmsFlesh_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "A7B664F154AFA4481A1CB206F9D5CDF2AA6588B1",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/Electricity/M_Kwang_ElecBeam"
+			]
+		},
+		{
+			"ShaderMapHash": "EB42AAF1C71688550E6EDB3016E74DFD58E6DE30",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/Electricity/M_SparksPhoto_GPU_Rand"
+			]
+		},
+		{
+			"ShaderMapHash": "C224B8F18C889F8FE826E29FD80676DBE54D461B",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Fire/M_Fire_Procedural_Round"
+			]
+		},
+		{
+			"ShaderMapHash": "2675E6F12F6201B98D60AD891A8DCB4E1987CE46",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Shockwave/M_Kwang_Distort_Bubble"
+			]
+		},
+		{
+			"ShaderMapHash": "DD4374F286AAF9718F6F94C4C51E402B57FC5AEB",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_LowerBody_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "10709AF23D2F7A10F44BA2ADBDFEBDF1238DF8D0",
+			"Assets": [
+				"/Game/ParagonKwang/FX/Materials/Energy/Electricity/M_LightningSpiral"
+			]
+		},
+		{
+			"ShaderMapHash": "046FF4F352F27F476CB65BB482CA25C3675C4DE2",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Torso_rosewood"
+			]
+		},
+		{
+			"ShaderMapHash": "A408F1F409E3B271B08C476239A2829D76AFB983",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "403551F5BBE300B538B30ACAA070492F45121578",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "C76F63F53B5BAE80A7F0C41132268B9F7F51386C",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_SilverGhost/Materials/M_Kwang_WaistArms_SilverGhost"
+			]
+		},
+		{
+			"ShaderMapHash": "E897FDF51C1AB15BC2D2EB4905C006AD8614AC45",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier2/Kwang_Manbun_Zombie/Materials/M_Kwang_ManBun_TorsoClothes_Zombie"
+			]
+		},
+		{
+			"ShaderMapHash": "193616F9DCBF7DCE41AF63ADEAB45AA32CE3748A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "56F2D0FA4E56AB6067877E21656037A2281363AA",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "E0F808FB398AC13EB878323DFDB1284D2CE0C7CC",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Torso_Silk_rosewood2"
+			]
+		},
+		{
+			"ShaderMapHash": "1C7768FBA4884B06910105B03C44B053B7CB134F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F87477FB17D5720A8EE2E0DE0290D53030BD3A8D",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_rosewood/Materials/M_Kwang_Lowe_rosewoodrBody"
+			]
+		},
+		{
+			"ShaderMapHash": "A4F691FBD78A84131AD41BA27341EC1CC39593B4",
+			"Assets": [
+				"/Game/Weapon_Pack/Materials/Props/Interior/M_Props1",
+				"/Game/Weapon_Pack/Materials/Props/Interior/M_Props2",
+				"/Game/Weapon_Pack/Materials/Props/Interior/M_Props3",
+				"/Game/Weapon_Pack/Materials/Props/Interior/M_Wood_Props",
+				"/Game/Weapon_Pack/Materials/Set/M_Stone_Wall",
+				"/Game/Weapon_Pack/Materials/Set/M_Stone_Wall_Trim",
+				"/Game/Weapon_Pack/Materials/Set/M_Wall_Window_Frame1",
+				"/Game/Weapon_Pack/Materials/Set/M_Wall_Window_Frame2",
+				"/Game/Weapon_Pack/Materials/Set/M_Window_Frames"
+			]
+		},
+		{
+			"ShaderMapHash": "58F192FD4B2B3672D37502082D4BA7D2121DED48",
+			"Assets": [
+				"/Game/ParagonKwang/Characters/Heroes/Kwang/Skins/Tier1/Kwang_Sunrise/Materials/M_Kwang_LowerBody_Silk_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "E806DEFD1EEF3571B7CA9E3C4F784315DEC547A4",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "9EDA61FE204E9151D5A9C753CCA81DE4966BEBBC",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4CB36BFF97D652D60EED1A76EFC05D87C32F5874",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		}
+	]
+}
